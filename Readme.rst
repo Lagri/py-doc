@@ -24,5 +24,5 @@ pyreverse
 
 
 ----------
-psphinx
+sphinx
 ----------

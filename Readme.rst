@@ -7,7 +7,8 @@ pyreverse
 * Install pylint:
 
     .. code::
-
+        
+        sudo apt install python-pydot python-pydot-ng graphviz
         sudo apt-get install pylint
 
     or
